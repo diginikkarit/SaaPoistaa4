@@ -1,0 +1,9 @@
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\bin\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.deps.json
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\bin\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.dll
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\bin\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.pdb
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\obj\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.csprojAssemblyReference.cache
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\obj\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.AssemblyInfoInputs.cache
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\obj\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.AssemblyInfo.cs
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\obj\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\obj\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.dll
+C:\Users\pophe\source\repos\MenuDemoV3ClassLibrary\obj\Debug\netcoreapp3.1\MenuDemoV3ClassLibrary.pdb
